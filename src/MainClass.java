@@ -1,3 +1,7 @@
 public class MainClass {
-yhfviygyuqwehjgcjhcvjhcnhgvjh
+    public int getLocalNumber(){
+        int a =14;
+        return a;
+    }
+
 }
